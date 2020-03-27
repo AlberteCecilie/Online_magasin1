@@ -1,0 +1,101 @@
+
+html {
+
+}
+
+
+
+body {
+background-image: url(images/psyk_baggrund.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+ position: absolute;
+}
+
+
+ul {
+    list-style-type: none;
+    margin-right: -50px;
+    margin-top: 40px;
+    font-family: "Shree Devanagari 714";
+    letter-spacing: 2px;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+    width: 200px;
+}
+
+li a {
+  display:inline;
+  color: white;
+  text-align: center;
+  padding: 30px 16px;
+  text-decoration: none;
+
+}
+#logo {
+    height: 320px;
+    width: auto;
+    position: absolute;
+    top: -160px;
+    left: -90px;
+}
+#some {
+    height: 220px;
+    width: auto;
+    position: absolute;
+    right: -190px;
+    top: -66px;
+}
+
+#PSYKISKOMRÅDE {
+    font-family: "Shree Devanagari 714";
+    letter-spacing: 2px;
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    top: 320px;
+    left: 273px;
+}
+#PSYKISKOMRÅDE1 {
+    font-family: "Shree Devanagari 714";
+    letter-spacing: 2px;
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    top: 380px;
+    left: 265px;
+    font-weight:
+}
+
+#psyk-ikon{
+    position: absolute;
+    height: 450px;
+    top:0px;
+    right: 147px;
+    
+} 
+
+.so-artikel {
+    color: white;
+    font-family: "Shree Devanagari 714";
+    font-size: 14px;
+    text-indent: 45px;
+}
+
+.so-artikel{
+    display: grid;
+    height: 500px;
+    width: 450px;
+    margin-top: 175px;
+    margin-left: 950px; 
+}
+
+#scroll{
+    position: absolute;
+    height: 1680px;
+    top:-410px;
+    right: -1140px; 
+}
